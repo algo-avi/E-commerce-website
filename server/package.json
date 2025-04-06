@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "An advanced MERN stack e-commerce app with React 18, Tailwind CSS, Redux Toolkit + Async Thunk, and React Router v6. Features include product listings, cart, Stripe payments, admin panel for managing orders/products, JWT authentication, MongoDB Atlas, Nodemailer for emails, and Vercel deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algo-avi/E-commerce-website.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "redux-tool-kit",
+    "e-commerce",
+    "admin-pannel",
+    "algo-avi"
+  ],
+  "author": "avinash singh patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algo-avi/E-commerce-website/issues"
+  },
+  "homepage": "https://github.com/algo-avi/E-commerce-website#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
